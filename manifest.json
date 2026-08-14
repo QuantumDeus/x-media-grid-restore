@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "X Media Grid Restore",
+  "version": "0.1.0",
+  "description": "Restores X's legacy profile media grid while the original feature remains available.",
+  "content_scripts": [
+    {
+      "matches": ["https://x.com/*"],
+      "js": ["inject.js"],
+      "run_at": "document_start",
+      "world": "MAIN"
+    }
+  ]
+}
