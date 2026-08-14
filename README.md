@@ -4,6 +4,9 @@ A minimal local Chrome extension that asks X to use its legacy profile media
 layout. It runs only on `https://x.com/*`, has no background process, requests
 no Chrome permissions, sends no network requests, and stores no data.
 
+<img width="455" height="292" alt="image" src="https://github.com/user-attachments/assets/0b3f4ed7-043a-491a-a542-2bc29403722c" />
+
+
 ## How it works
 
 Before X initializes its React application, the extension changes these two
