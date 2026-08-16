@@ -7,7 +7,7 @@
 
 ## OR greasyfork Script
 https://greasyfork.org/en/scripts/591463-x-media-grid-restore?locale_override=1
-
+##
 
 A minimal local Chrome extension that asks X to use its legacy profile media
 layout. It runs only on `https://x.com/*`, has no background process, requests
