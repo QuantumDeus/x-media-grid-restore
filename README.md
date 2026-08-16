@@ -2,6 +2,8 @@
 
 [![Click Here for the Firefox Version](https://img.shields.io/badge/Firefox_Version-Click_Here-FF7139?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://github.com/QuantumDeus/x-media-grid-restore-firefox)
 
+![Total Downloads](https://img.shields.io/github/downloads/QuantumDeus/x-media-grid-restore/total?style=for-the-badge&logo=googlechrome&label=Downloads&color=4285F4)
+
 A minimal local Chrome extension that asks X to use its legacy profile media
 layout. It runs only on `https://x.com/*`, has no background process, requests
 no Chrome permissions, sends no network requests, and stores no data.
