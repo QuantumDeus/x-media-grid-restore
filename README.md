@@ -5,6 +5,9 @@
 [![Download for Chrome](https://img.shields.io/badge/Download_for_Chrome-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/QuantumDeus/x-media-grid-restore/releases/download/V1/x-media-grid-restore.zip)
 ![Total Downloads](https://img.shields.io/github/downloads/QuantumDeus/x-media-grid-restore/total?style=for-the-badge&logo=googlechrome&label=Downloads&color=4285F4)
 
+## OR greasyfork Script
+https://greasyfork.org/en/scripts/591463-x-media-grid-restore?locale_override=1
+
 
 A minimal local Chrome extension that asks X to use its legacy profile media
 layout. It runs only on `https://x.com/*`, has no background process, requests
